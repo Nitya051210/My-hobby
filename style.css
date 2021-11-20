@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    background: linear-gradient( #4287f5 0%,#4bf542 100%);
+}
+html
+{
+    scroll-behavior: smooth;
+}
+
+img{
+  width:300;
+  height:300;
+    border-radius: 50%;
+    
+}
+#myname{
+   font-family: 'Courgette', cursive;
+}
+#welcome{
+     padding:25px;
+    
+    
+    
+}
+
+#welcome h1{
+    font-size: 40px;
+}
+h1{
+  
+  font-size:18px;
+}
+p{
+  font-size:18px;
+  color:#6A1B9A;
+    
+}
+h2{
+  font-size:20px;
+  color:#003487;
+}
+.line{
+    height: 6px;
+    background-color: black;
